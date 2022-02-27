@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The city-dames petition, in the behalfe of the long afflicted, but well-affected cavaliers. Presented to the supreme powers of this Kingdome.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79818</idno>
+            <idno type="STC">Wing C4350</idno>
+            <idno type="STC">Thomason E409_12</idno>
+            <idno type="STC">ESTC R204420</idno>
+            <idno type="EEBO-CITATION">99863914</idno>
+            <idno type="PROQUEST">99863914</idno>
+            <idno type="VID">161192</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79818)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161192)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 65:E409[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The city-dames petition, in the behalfe of the long afflicted, but well-affected cavaliers. Presented to the supreme powers of this Kingdome.</title>
+                  <author>Stradling, Mrs.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the yeere, 1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Signed at end: Mrs. I. Stradling, .. [and 13 others].</note>
+                  <note>Annotation on Thomason copy: "7ber [i.e. September] 28".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161192:1" rendition="simple:additions"/>
+            <p>The City-Dames PETITION, IN The behalfe of the long afflicted, but well-affected CAVALIERS.</p>
+            <p>PRESENTED <hi>To the Supreme Powers of this Kingdome.</hi>
+            </p>
+            <figure>
+               <figDesc>printer's device: a central fleur-de-lis flanked by a Tudor rose and a Scottish thistle</figDesc>
+            </figure>
+            <p>Printed in the Yeere, 1647. <add>7<hi rend="sup">ber</hi> 28</add>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:161192:2"/>
+            <pb n="1" facs="tcp:161192:2"/>
+            <head>The City Dames Petition, in the be<g ref="char:EOLhyphen"/>halfe of the long afflicted, but well-affected CAVALIERS.</head>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>WEE whoſe names are under-written, do in the behalfe of all the well-affected women in and about the Cities of London, Weſt-minſter; and other adjacent parts, in hopes of a ſudden redreſſe, make knowne unto your Lordſhips and the honourable the Houſe of Commons, the unſupportable grievances which have long befallen us, by oocaſion of this unhappy, unnaturall, and inteſtine warre, and have been con<g ref="char:EOLhyphen"/>tinued to us of late by meanes of ſeverall orders iſſuing from both Houſes, for the extirpation of the Nobles and Gentry of this Kingdome, who ſuffer for their loyal<g ref="char:EOLhyphen"/>ty to their King, and go under that noble attribute of Cavalier, which the ſhort<g ref="char:EOLhyphen"/>haird brethren miſtook for a name of infa<g ref="char:EOLhyphen"/>my, being as well over-ſeen in matters
+<pb n="2" facs="tcp:161192:3"/> temporall as ſpirituall, and in both groſſe<g ref="char:EOLhyphen"/>ly. But leaſt we may ſeem prolixe, or like the people of Myndus, make our gate big<g ref="char:EOLhyphen"/>ger then our Citie, let us fall backe to the Cavaliers, and make ſhew of thoſe ſecrets which (to our griefes) have been long concealed.</p>
+            <p>It is not unknowne to your Lordſhips, and the reſt of this Kingdome, that ſince his Majeſtie was compelled to leave White hall, by reaſon of unruly multitudes, trading of all ſorts have been mightily impeaded, unleſſe a little in the Suburbs, where your French Commodities are ſo frequently vendible, whereas before the City ſupplied men with all commodities. And in juſtice we ought to have our de<g ref="char:EOLhyphen"/>ſires anſwered in ſome meaſure, for who paid the Scots (thoſe beggerly Saints) af<g ref="char:EOLhyphen"/>ter they were invited to begin this warre, but the City? Who continued this warre but the City? Or who are like to be un<g ref="char:EOLhyphen"/>done by this war but the City? We are ſure our husbands have little reaſon to hold their heads ſo high ſince the Cavaliers left the Towne, to our great griefs, our ſhops
+<pb n="3" facs="tcp:161192:3"/> which heretofore were fragrant as the ſprings firſt flowers, occaſioned by gallants frequent viſits, are now like houſes haun<g ref="char:EOLhyphen"/>ted with ſpirits, unfrequented, happy thoſe daies when they were ſtuck with variety, Nobles, Knights, Eſquires, Gentlemen, then every Citizens wife of any quality, was occupied in her ſeverall vocation then might our husbands freely take the aire, or go to their countrey-houſes, whilſt we had thoſe at our command to act their parts in the City, which was a great con<g ref="char:EOLhyphen"/>tentment (good ſoule<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) to them. But now the caſe is altered, let us have ever ſo good commodities not a chapman is left to cheapen, which will occaſion a horrible inconvenience in time; we ſhall not have a ſonne but of the City breed, borne with a what doe you lacke? in his mouth, or the iſſue of ſome fowle mouthed fel<g ref="char:EOLhyphen"/>low, who will bee crying downe the Whore of Babylon, who are confident is a bawd by this time, for we have heard her ra<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed againſt by a Wicker chaird<g ref="char:punc">▪</g> brother, ever ſince the time of our minorities. Be<g ref="char:EOLhyphen"/>ſides my Lords, what an inconvenience it
+<pb n="4" facs="tcp:161192:4"/> will be, when our poore husbands have been hard at it all day, muſt bee forced (though may be diſabled in the ſervice) to work at night: in this we appeale to your Lordſhips, or elſe we muſt bee forced to be at the trouble to ſend our Emiſſaries a<g ref="char:EOLhyphen"/>broad to look out ſome friends, who no ſooner entred—into our acquaintance, and indeered to us, but preſently iſſues an Ordinance of Parliament, which ſuited to the terrible ſounds of Drum and Trum<g ref="char:EOLhyphen"/>pet, forceth us to make a field buſineſſe of it, or els to deferre our joyes till three tedi<g ref="char:EOLhyphen"/>ous moneths are waſted.</p>
+            <p>My Lords, we deſire your Lordſhips, as you have been borne by women, or borne of women, that your Lordſhips would adviſe of ſome convenient times to do it your ſelves, or otherwiſe (in caſe you have miſcarried, lying ſo long with the Common-wealth) not to hinder well-affected people.</p>
+            <p>It is not unknown to your Lord<g ref="char:EOLhyphen"/>ſhips, that the Gentry of this King<g ref="char:EOLhyphen"/>dome,
+<pb n="5" facs="tcp:161192:4"/> I mean the Cavaliers, have al<g ref="char:EOLhyphen"/>waies ſtood ſtiffe to the City upon all occaſions, and would ſtill, were they not diſabled by Parliamentary proceedings truly you have by your rough handling, I hope your Lord<g ref="char:EOLhyphen"/>ſhips wil not be offended, taken the edge of their abilities much off, and by that means have left many good women in a pitifull plight.</p>
+            <p>Conſider we beſeech your Lord<g ref="char:EOLhyphen"/>ſhips, it is not one, but many that ſuf<g ref="char:EOLhyphen"/>fer by this unjuſt dealing, view but the now unfrequented ſtreets, where whilome Coaches plowed up the pavements, ſtuft with gallants whoſe breaths were ſweet as Amber, inſtead whereof you ſhal ſee a mouſe-hair'd fellow, with a long thing God bleſſe us by his ſide, as ruſty as himſelf, with his erected eares, juſt like our huſ<g ref="char:EOLhyphen"/>bands, are not theſe goodly chapmen
+<pb n="6" facs="tcp:161192:5"/> to deal in whole-ſale Commodities?</p>
+            <p>To trouble your Lordſhips no further, what do or will people think when they ſee that we are fitt in our husbands ſhops for no other uſe but (juſt as buckets are hung up finely painted in Churches) to extinguiſh the fire of ſome poore neighbouring building, when we might ſerve (were a right uſe made of us) to extinguiſh the high riſing flames of a Kingdome.</p>
+            <p>Wee beſeech your Lordſhips to conſider the premiſſes, and according to your mercy (not your juſtice) give a period to our grievances, and wee ſhall (as in duty bound) pray for your Lordſhips length, &amp;c.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Mrs. I. Stradling,</item>
+                     <item>Obediah Placket,</item>
+                     <item>Ma. Lecher,</item>
+                     <item>Sa. Loveſicke,</item>
+                     <item>P. Horne,</item>
+                     <item>R. VVantall,</item>
+                     <item>Pr. Tooly.</item>
+                     <item>Mrs. E. Overdooe,</item>
+                     <item>Han. Snatchall,</item>
+                     <item>D. Swivewell,</item>
+                     <item>K. Stretch,</item>
+                     <item>A. Troubleſome,</item>
+                     <item>Jo. Scanted,</item>
+                     <item>Reb. Dooling, &amp;c.</item>
+                  </list>
+               </signed>
+            </closer>
+            <epigraph>
+               <q>
+                  <l>Here's the treaſure of the City,</l>
+                  <l>Beauties plenty, blith and witty.</l>
+               </q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
